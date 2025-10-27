@@ -1,5 +1,3 @@
-## Hi there 👋
+![alt text](https://github.com/sshonkk-win/sshonkk-win/blob/main/images/full.jpg?raw=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshonkk-win)](https://github.com/anuraghazra/github-readme-stats)
-## Learn more about me:
-https://sshonkk-win.github.io/hello-world/
+## Hi there 👋
