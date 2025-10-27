@@ -1,3 +1,3 @@
-![alt text](https://github.com/sshonkk-win/sshonkk-win/blob/main/images/full.jpg?raw=true)
+![my mii](images/full.png)
 
 ## Hi there 👋
